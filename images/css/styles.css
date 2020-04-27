@@ -98,3 +98,13 @@ position: absolute;
   text-align: center;
   padding: 100px;
 }
+#cta
+{
+  text-align: center;
+}
+
+#footer
+{
+  font-size: 3rem;
+  text-align: center;
+}
